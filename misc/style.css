@@ -17,7 +17,8 @@ body {
   font-family: "boldfont";
   color: white;
   
-  text-align: center;
+  position: relative;
+  left: 20px;
 }
 
 .text {
