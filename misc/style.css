@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "lightfont";
+  src: url(Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: "boldfont";
+  src: url(Roboto-Bold.ttf);
+}
+
+body {
+  margin: 0;
+  background-color: #5B656F;
+}
+
+.title {
+  font-family: "boldfont";
+  color: white;
+  
+  text-align: center;
+}
+
+.text {
+  font-family: "lightfont";
+  color: white;
+  
+  position: relative;
+  left: 20px;
+}
